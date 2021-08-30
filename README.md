@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Zurzeit im @Codingbootcampeu
+- Auf der Suche nach einer neuen Herausforderung
 <!--
 **timhe375/timhe375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
