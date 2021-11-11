@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/static/v1?label=HTML&message=5&color=blue
 - Zurzeit im [Codingbootcampeu](https://www.coding-bootcamps.eu/)
 - Auf der Suche nach einer neuen Herausforderung
 <!--
