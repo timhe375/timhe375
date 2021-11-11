@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/HTML-5-blue"><img src="https://img.shields.io/badge/CSS-3-lightgreen"><img src="https://img.shields.io/badge/JS-2020-yellow"><img src="https://img.shields.io/badge/Vue.js-3-green"><img src="https://git-scm.com/" alt="git" data-canonical-src="https://img.shields.io/badge/--F05032?logo=git&amp;logoColor=ffffff" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/HTML-5-blue"><img src="https://img.shields.io/badge/CSS-3-lightgreen"><img src="https://img.shields.io/badge/JS-2020-yellow"><img src="https://img.shields.io/badge/Vue.js-3-green">
 - Zurzeit im [Codingbootcampeu](https://www.coding-bootcamps.eu/)
 - Auf der Suche nach einer neuen Herausforderung
 <!--
